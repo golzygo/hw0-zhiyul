@@ -4,8 +4,8 @@
 	<artifactId>hw0-zhiyul</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<scm>
-		<connection>scm:git:gi@github.com:golzygo/hw0-zhiyul.git</connection>
-		<developerConnection>scm:git:gi@github.com:golzygo/hw0-zhiyul.git</developerConnection>
+		<connection>scm:git:git@github.com:golzygo/hw0-zhiyul.git</connection>
+		<developerConnection>scm:git:git@github.com:golzygo/hw0-zhiyul.git</developerConnection>
 	</scm>
 	<repositories>
 		<repository>
